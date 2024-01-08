@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    color:rgb(0, 107, 71);
+}
+h1#principal{
+    text-align: center;
+}
+h2{
+    color: rgb(0, 255, 170);
+}
